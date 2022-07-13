@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+SITE CRIADO BASEADO EM UM TEMPLATE
+
+fonte:
 
 Template Name: Moderna
 Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
